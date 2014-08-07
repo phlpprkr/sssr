@@ -1,0 +1,11 @@
+
+div {
+    height: 25px;
+    width: 25px;
+    border: 2px solid #778899;
+    border-radius: 100px;
+    background-color: #7E94FF;
+    box-shadow: 1px 2px 15px ;
+    padding: 5px;
+    margin: 5px;
+}
